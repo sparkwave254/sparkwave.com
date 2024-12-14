@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sparkwave254.github.io/sparkwave.com/sitemap.xml
